@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className='text-7xl'>react calculator assignment by altschool</h1>
+      <header className="text-red-900">beep ibile</header>
     </div>
   )
 }
